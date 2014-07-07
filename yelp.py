@@ -16,7 +16,7 @@ class YelpSearch(object):
         #API configurations
         self.API_HOST         = 'api.yelp.com'
         #The following are unused for now.
-        self.SEARCH_PATH      = '/v2/search/'
+        self.API_SEARCH_PATH      = '/v2/search/'
         #self.BUSINESS_PATH    = '/v2/business/'        
 
         #Defaults 
