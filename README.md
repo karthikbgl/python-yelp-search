@@ -1,7 +1,7 @@
-## This is definitely a work in progress. (Developing in Python 2.7)
+#### This is definitely a work in progress. (Developing in Python 2.7)
 
 Library dependencies:
 
-oauth2
-requests
+`oauth2`
+`requests`
 
